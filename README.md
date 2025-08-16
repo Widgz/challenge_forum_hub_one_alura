@@ -31,7 +31,6 @@ MySQL	Banco de dados relacional.
 JWT (Java JWT)	Biblioteca para trabalhar com tokens de autenticação.
 SpringDoc OpenAPI	Cria documentação interativa para a API.
 
-Exportar para as Planilhas
 🚀 Guia de Execução
 Siga estes passos para rodar o projeto localmente:
 
