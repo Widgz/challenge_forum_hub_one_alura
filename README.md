@@ -72,7 +72,6 @@ POST	/topicos	Cria um novo tópico.	Sim	{ "titulo": "...", "mensagem": "...", "c
 PUT	/topicos/{id}	Atualiza um tópico existente.	Sim	{ "titulo": "...", "mensagem": "...", "curso": "..." }
 DELETE	/topicos/{id}	Remove um tópico.	Sim	N/A
 
-Exportar para as Planilhas
 👨‍💻 Autor
 Desenvolvido com ❤️ por Paulo Estrela.
 
