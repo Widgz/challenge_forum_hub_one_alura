@@ -1,6 +1,8 @@
 🚀 Fórum Hub: Uma API para seu fórum online
 📖 Sobre o Projeto
-O Fórum Hub é uma API RESTful completa, desenvolvida como parte do Challenge Back-End da Alura e Oracle ONE. O objetivo foi construir o coração de um fórum de discussão, onde os usuários podem gerenciar tópicos de forma eficiente, criando, lendo, atualizando e excluindo conteúdo. O projeto inclui um robusto sistema de segurança para proteger todas as rotas com autenticação.
+O Fórum Hub é uma API RESTful completa, desenvolvida como parte do Challenge Back-End da Alura e Oracle ONE. 
+
+O objetivo foi construir o coração de um fórum de discussão, onde os usuários podem gerenciar tópicos de forma eficiente, criando, lendo, atualizando e excluindo conteúdo. O projeto inclui um robusto sistema de segurança para proteger todas as rotas com autenticação.
 
 Este projeto foi uma excelente oportunidade para aplicar e consolidar conceitos essenciais do desenvolvimento com Java e Spring, como a criação de APIs REST, validações de dados, segurança com tokens JWT e persistência de informações no banco de dados.
 
